@@ -4,3 +4,6 @@
 [submodule "plugins/tmux-fzf-tmuxinator"]
 	path = plugins/tmux-fzf-tmuxinator
 	url = https://git::@github.com/viktorhefringmarine/tmux-fzf-tmuxinator
+[submodule "plugins/tmux-menus"]
+	path = plugins/tmux-menus
+	url = https://git::@github.com/jaclu/tmux-menus
