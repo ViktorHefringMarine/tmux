@@ -1,3 +1,6 @@
 [submodule "plugins/tpm"]
 	path = plugins/tpm
 	url = https://github.com/tmux-plugins/tpm
+[submodule "plugins/tmux-fzf-tmuxinator"]
+	path = plugins/tmux-fzf-tmuxinator
+	url = https://git::@github.com/viktorhefringmarine/tmux-fzf-tmuxinator
