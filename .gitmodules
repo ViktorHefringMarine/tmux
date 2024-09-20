@@ -1,6 +1,0 @@
-[submodule "plugins/tmux-fzf-tmuxinator"]
-	path = plugins/tmux-fzf-tmuxinator
-	url = https://github.com/viktorhefringmarine/tmux-fzf-tmuxinator
-[submodule "plugins/tmux-power"]
-	path = plugins/tmux-power
-	url = https://github.com/viktorhefringmarine/tmux-power
